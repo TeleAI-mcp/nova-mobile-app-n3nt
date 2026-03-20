@@ -1,2 +1,3 @@
-# nova-mobile-app-n3nt
-A mobile application for modern development workflows
+# Nova Mobile App N3Nt
+
+A mobile application for modern development workflows.
